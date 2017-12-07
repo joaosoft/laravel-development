@@ -1,0 +1,7 @@
+---
+language: php
+php:
+  - nightly
+sudo: false
+notifications:
+  email: joaosoft@gmail.com
